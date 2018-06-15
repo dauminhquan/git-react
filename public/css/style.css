@@ -1,0 +1,87 @@
+.form-login{
+    margin-top: 3%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.logo-login{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 20%;
+    font-size: 80px;
+
+    color: #f991d0;
+    font-weight: bold;
+    font-family: 'Tangerine', cursive;
+}
+.un-line-logo{
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    border-bottom: 1px solid #f991d0;
+}
+.icon-login-with a{
+    margin-left: 10px;
+    font-size: 30px;
+}
+.color-login-with-google{
+    color: #f98784;
+}
+.login{
+    background-image: url("./../image/marry-background-image.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+
+}
+body{
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+ /*font-weight: 900;*/
+}
+input,button{
+    font-size: 18px !important;
+}
+.avatar{
+
+
+}
+.avatar img{
+    width: 100px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    display: block;
+
+}
+
+.sideMenu{
+    width: 20%;
+    float: left;
+    background-color: #0e191f;
+}
+.list-menu{
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-left: 15px;
+}
+.list-menu list-menu-item{
+    display: block !important;
+}
+.list-menu-item{
+    margin-top: 5px;
+    margin-left: 30px;
+    display: none;
+}
+
+.list-menu a{
+    text-decoration: none;
+}
+#root{
+    width: 100%;
+    height: 100%;
+}
